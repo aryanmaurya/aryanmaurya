@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryanmaurya
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning wordpress
+- 🌱 I’m a full stack web developer
 - 📫 How to reach me https://www.aryanmaurya.com/
 
 <!---
