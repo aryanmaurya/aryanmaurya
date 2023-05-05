@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryanmaurya
 - 👀 I’m interested in coding
-- 🌱 I’m a full stack web developer
+- 🌱 I’m a Frontend Eeb Developer
 - 📫 How to reach me https://www.aryanmaurya.com/
 
 <!---
